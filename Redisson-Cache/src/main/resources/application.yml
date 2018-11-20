@@ -1,6 +1,6 @@
 spring:
   redis:
-    host: 39.104.120.164
+    host: 39.104.120.163
     port: 6379
     timeout: 10s
     database: 1
